@@ -17,3 +17,15 @@ Justification: This analysis allows us to determine if there are irregular spike
 
 <img width="763" alt="Screenshot 2025-04-21 at 9 30 29 AM" src="https://github.com/user-attachments/assets/89e16c85-7f8e-4ea2-929e-e969848e5c13" />
 
+## Question 2: Is there a trend in the number of alcohol-related collisions on days of the week over time?
+
+Justification: The NYPD may want to determine whether they need increased presence (more officers, DUI checkpoints, etc.) on certain days of the week. We created a bar chart of percent of collisons and the day of the week (Monday-Saturday). We then filtered the contibuting factor behind the crash to be only alcohol involvement. 
+
+<img width="687" alt="Screenshot 2025-04-21 at 9 42 17 AM" src="https://github.com/user-attachments/assets/de0baf4c-40b7-498b-a9dc-6b38908e9b60" />
+
+<img width="704" alt="Screenshot 2025-04-21 at 9 42 29 AM" src="https://github.com/user-attachments/assets/0d6569b3-bfbc-4cb3-9d38-476f24e855d4" />
+
+
+
+
+
