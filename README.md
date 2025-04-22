@@ -77,12 +77,19 @@ This question and analysis are important for many reasons, including:
 
 ## Manipulations Applied to Data
 
-For our first question, we created a calculated field to separate the data 
+Overall, we used three calculated fields to better manipulate and display the data. 
 
-For our second question, we created a calculated field to separate data into days of the week because the data was originally stored in date form (MM/DD/YYYY).
+- For our first question, we created a calculated field to separate buses from other vehicle types in order to visualize collisions with buses versus collions with other vehicles (SUV, sedan, pick-up truck, box truck, convertible, motorcycle, tractor truck, taxi, etc):
 
-![image](https://github.com/user-attachments/assets/cf3479f6-2430-4bde-9c90-62d3e1774e31)
+ <img width="604" alt="Screenshot 2025-04-22 at 12 30 24 PM" src="https://github.com/user-attachments/assets/7bbf5eca-9223-4317-9ada-786e575079ec" />
 
+- For our second question, we created a calculated field to separate data into days of the week because the data was originally stored in date form (MM/DD/YYYY):
+
+ <img width="606" alt="Screenshot 2025-04-22 at 12 31 13 PM" src="https://github.com/user-attachments/assets/f7bca304-91f4-44ba-9dae-db2db9f44f69" />
+
+- We also created a calculated field to express percentages of collisions by day of week, which appears on the y-axis of the graphs for our second question:
+
+<img width="591" alt="Screenshot 2025-04-22 at 12 33 15 PM" src="https://github.com/user-attachments/assets/49a6c66e-1a72-47df-9aae-d51b6286ea7e" />
 
 
 ## Analysis and Results
