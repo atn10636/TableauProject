@@ -22,11 +22,23 @@ Justification: This analysis allows us to determine if there are irregular spike
 
  We observed distinct peaks in bus-related collisions:
 
-- Morning spike around 7:00–9:00 AM, aligning with typical school start hours.
+- Morning spike around 7:00–9:00 AM, aligning with typical school start hours, suggests high traffic volume and bus activity during student dropoff.
 
-- Afternoon spike between 2:00–4:00 PM, corresponding with school dismissal hours.
+- Afternoon spike between 2:00–4:00 PM, corresponding with school dismissal hours, indicates increased collision risk during student pickup.
 
-These findings suggest that bus-involved collisions are more likely to occur during periods when buses are transporting students, reinforcing the need for traffic safety measures during these windows.
+The data clearly shows two distinct spikes in bus-related crashes, during morning and afternoon school commute windows, which supports the shows that bus collisions are more frequent during school start/end times.
+Overall, this suggests that bus-involved collisions are more likely to occur during periods when buses are transporting students, reinforcing the need for traffic safety measures during these windows.
+
+This question and analysis are important for many reasons, including:
+
+- Student Safety: Spikes in NYC bus collisions during school hours may pose added risk to children walking to and from school
+
+- Traffic Planning: Time-based trends can help New York City Department of Transportation better deploy crossing guards, traffic officers, or signal timing
+
+- Transit Policy: If school buses crash more often during peak times, it may prompt changes to routes, schedules, or driver protocols
+
+- Targeted Solutions: NYC-specific collision patterns support focused, data-driven safety improvements in high-risk areas
+
 
 
 
@@ -43,17 +55,31 @@ Justification: The NYPD may want to determine whether they need increased presen
 The results showed:
 
 - Friday and Saturday consistently have the highest percentage of alcohol-related collisions, with a noticeable drop on Sundays and weekdays.
+- Clear spikes on Saturday (~25%) and Sunday (~23%), indicating weekends are much more prone to alcohol-involved crashes.
+- Lowest percentages on Tuesday and Wednesday (below 10%), showing these are the least risky days for alcohol-related collisions.
 
-- This trend suggests a strong correlation between weekend social activity and impaired driving accidents.
+- This trend suggests a strong correlation between weekend social activity and impaired driving accidents. The pattern shows a strong weekend concentration of risk, tied to social drinking patterns.
 
 These insights provide clear support for targeted DUI enforcement on Fridays and Saturdays. Law enforcement agencies could strategically allocate DUI checkpoints or late-night patrols on weekends when the risk is highest. Public safety campaigns might also focus on discouraging weekend drinking and driving.
+
+This question and analysis are important for many reasons, including:
+
+- NYPD Resource Allocation: Identifying day-of-week trends in alcohol-related crashes helps the NYPD plan patrols, checkpoints, and staffing
+
+- Public Safety: Spotting high-risk days can support targeted efforts to prevent DUI-related injuries and fatalities
+
+- Policy & Prevention: Clear trends may justify awareness campaigns, stricter enforcement, or legislative action for certain days
+
+- Data-Driven Action: Weekly patterns over time provide evidence for proactive strategies across NYC neighborhoods
+
+
 
 
 ## Manipulations Applied to Data
 
-For our first question, we created a calculated field to seperate data 
+For our first question, we created a calculated field to separate data 
 
-For our second question, we created a calculated field to seperate data into days of the week because the data was originally stored in date form (MM/DD/YYYY).
+For our second question, we created a calculated field to separate data into days of the week because the data was originally stored in date form (MM/DD/YYYY).
 
 ![image](https://github.com/user-attachments/assets/cf3479f6-2430-4bde-9c90-62d3e1774e31)
 
