@@ -1,4 +1,4 @@
-# Team 5 TableauProject
+# Team 5 Tableau Project
 
 Members:
 - Lucas Kopelman [@LUCASKOPELMAN](https://github.com/LUCASKOPELMAN)
