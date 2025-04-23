@@ -24,7 +24,7 @@ Justification: This analysis allows us to determine if there are irregular spike
 
 - Morning spike around 7:00–9:00 AM, aligning with typical school start hours, suggests high traffic volume and bus activity during student dropoff.
 
-- Midday Lull from 9 AM–2 PM, noticeable drop in bus crashes following the morning peak, indicates reduced risk during this window, likely due to fewer buses in operation and lighter traffic compared to peak hours
+- Midday Lull from 9:00 AM–2:00 PM, noticeable drop in bus crashes following the morning peak, indicates reduced risk during this window, likely due to fewer buses in operation and lighter traffic compared to peak hours
 
 
 - Afternoon spike between 2:00–4:00 PM, corresponding with school dismissal hours, indicates increased collision risk during student pickup.
