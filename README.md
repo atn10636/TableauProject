@@ -77,7 +77,16 @@ This question and analysis are important for many reasons, including:
 
 ## Manipulations Applied to Data
 
-Overall, we used three calculated fields to better manipulate and display the data. 
+We began by cleaning the data. The orginial data contained many null attributes. There were also many columns with repetitve data, which we consolidated.
+
+Original data:
+<img width="744" alt="Screenshot 2025-04-23 at 10 24 58 AM" src="https://github.com/user-attachments/assets/a21f5a1b-3f7a-46bd-b65e-5d10531cecf5" />
+
+Cleaned data:
+<img width="769" alt="Screenshot 2025-04-23 at 10 26 27 AM" src="https://github.com/user-attachments/assets/cba9a6b3-c23c-4677-b245-8388ae5af58c" />
+
+
+Addtionally, we created and used three calculated fields to better manipulate and display the data. 
 
 - For our first question, we created a calculated field to separate buses from other vehicle types in order to visualize collisions with buses versus collions with other vehicles (SUV, sedan, pick-up truck, box truck, convertible, motorcycle, tractor truck, taxi, etc):
 
