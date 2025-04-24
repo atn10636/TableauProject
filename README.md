@@ -110,5 +110,5 @@ Addtionally, we created and used three calculated fields to better manipulate an
 
 Analyzing New York City traffic accident patterns is essential for improving safety and keeping the city running efficiently. Our findings show that bus collisions significantly increase during school commute hours, raising concerns about student safety and highlighting the need for better traffic control near schools. We also discovered that alcohol-related crashes peak on weekends, especially Fridays and Saturdays, indicating a need for stronger DUI enforcement and public education. These insights give agencies like the New York police Department and the NYC Department of Transportation the tools to make informed decisions that enhance public safety, improve traffic flow, and help reduce preventable accidents.
 
-## Tableau Packaged Workbook
+
 
