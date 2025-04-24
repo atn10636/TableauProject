@@ -5,7 +5,7 @@ Members:
 -  Amanda Nolan [@atn10636](https://github.com/atn10636)
 -  Allie Rose [@ajr29445](https://github.com/allierose923/MIST4610-Group-Project-2)
 -  Aarav Patel [@aarav04423](https://github.com/aarav04423)
--  Saianagha Attili [@sa85600](https://github.com/LUCASKOPELMAN/4610-project)
+-  Saianagha Attili [@sa85600](https://github.com/Sa85600)
 
 ## Dataset Description
 
